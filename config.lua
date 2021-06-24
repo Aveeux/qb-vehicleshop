@@ -12,7 +12,7 @@ Config.TestDriveTime = 30   -- TIME in SEC
 Config.Blips = {
     [1] = {
         blip = vector3(-56.49, -1096.58, 26.42),
-        blipname = 'Simeons',
+        blipname = 'Premium Deluxe Motorsport',
         blipsprite = 326,
         blipcolor = 3
     },
